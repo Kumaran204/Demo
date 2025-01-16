@@ -1,2 +1,2 @@
-This is to inform that you created the new file with git will created successfully.
-Try to commit it.
+The same page is created for testing purpose.
+Successfully pages has been created and sample testing data has been entered correctly.

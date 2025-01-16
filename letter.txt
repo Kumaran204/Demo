@@ -1,0 +1,2 @@
+This is to inform that you created the new file with git will created successfully.
+Try to commit it.
